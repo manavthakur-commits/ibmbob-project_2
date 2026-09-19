@@ -1,4 +1,4 @@
-# House Price Prediction
+# 🏡House Price Prediction
 
 A fully self-contained Python project that trains three regression models on a house price dataset and serves an interactive Streamlit web app for predictions, model comparison, and data exploration.
 
